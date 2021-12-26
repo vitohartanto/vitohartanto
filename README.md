@@ -1,11 +1,11 @@
 ### Hi there, I'm Vito Hartanto 👋
 
-### I'm a sophomore in Electrical Engineering and I have interests in Web Development 🚀
+### I'm a sophomore in Electrical Engineering and I have interest in Web Development 🚀
 
 - 🦜 I'm from Pekanbaru, Riau, Indonesia
 - :octocat: I'm 19 years old
 - :electron: I’m currently studying in Universitas Gadjah Mada
-- ⚔️ I enjoy learning new stuff
+- ⚔️ I enjoy learning new stuffs
 - 🐟 Fun fact: I'm a Betta Fish Keeper
 
 ### Connect with me:
