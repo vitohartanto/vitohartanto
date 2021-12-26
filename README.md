@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Vito Hartanto 👋
 
-<!--
-**vitohartanto/vitohartanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a sophomore in Electrical Engineering and have interests in Web Development 🚀
 
-Here are some ideas to get you started:
+- 🦜 I'm from Pekanbaru, Riau, Indonesia
+- :octocat: I'm from Pekanbaru, Riau, Indonesia
+- :electron: I’m currently studying in Universitas Gadjah Mada
+- ⚔️ I enjoy learning new stuff
+- 🐟 Fun fact: I'm a Betta Fish Keeper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
+### Languages and Tools:
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+[instagram]: https://www.instagram.com/hartantovito/
+[linkedin]: https://www.linkedin.com/in/vito-hartanto-3813901b6/
