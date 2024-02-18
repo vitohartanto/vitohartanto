@@ -17,5 +17,13 @@
 will be updated later...
 #1commitperdaywithoutupdatingreadme
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/vitohartanto">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitohartanto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitohartanto&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 [instagram]: https://www.instagram.com/hartantovito/
 [linkedin]: https://www.linkedin.com/in/vito-hartanto-3813901b6/
