@@ -15,7 +15,8 @@
 
 ### Languages and Tools:
 will be updated later...
-#1commitperdaywithoutupdatingreadme
+#1commitperdaychallenge
+#daily1%better
 
 ### Github Statistic
 <p align="left">
