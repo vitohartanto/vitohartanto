@@ -1,6 +1,6 @@
 ### Hi there, I'm Vito Hartanto 👋
 
-### I'm a senior year student in Electrical Engineering and I am Front-End & Back-End enthusiast 🚀
+### I'm a senior year student in Electrical Engineering and I am Front-End enthusiast 🚀
 
 - 🦜 I'm from Pekanbaru, Riau, Indonesia
 - :octocat: I'm 21 years old
