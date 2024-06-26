@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-will be updated later...
+will be updated soon...
 #1commitperdaychallenge
 #daily1%better
 
