@@ -1,10 +1,10 @@
 ### Hi there, I'm Vito Hartanto 👋
 
-### I'm a senior year student in Electrical Engineering and I am Front-End Developer 🚀
+### I'm a Fresh Graduate in Electrical Engineering and I am Front-End Developer 🚀
 
 - 🦜 I'm from Pekanbaru, Riau, Indonesia
 - :octocat: I'm 21 years old
-- :electron: I’m currently studying in Universitas Gadjah Mada
+- :electron: I studied in Universitas Gadjah Mada
 - ⚔️ I enjoy learning new stuffs
 - 🐟 Fun fact: I find pleasure in caring for ornamental fish
 
