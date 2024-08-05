@@ -1,6 +1,6 @@
 ### Hi there, I'm Vito Hartanto 👋
 
-### I'm a Fresh Graduate in Electrical Engineering and I am Front-End Developer 🚀
+### I'm a Front-End Developer and Fresh Graduate in Electrical Engineering 🚀
 
 - 🦜 I'm from Pekanbaru, Riau, Indonesia
 - :octocat: I'm 21 years old
