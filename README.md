@@ -17,6 +17,8 @@
 
 ### Languages and Tools:
 will be updated soon...
+Currently, learning about Back-End Development
+
 #1commitperdaychallenge
 #daily1%better
 
