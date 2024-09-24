@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 will be updated soon...
-Currently, learning about Back-End Development
+Currently, learning about Back-End Development (Node.js & Hapi.js/ Express.js)
 
 #1commitperdaychallenge
 #daily1%better
