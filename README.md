@@ -27,5 +27,5 @@
 </a>
 </p>
 
-[instagram]: https://www.instagram.com/hartantovito/
-[linkedin]: https://www.linkedin.com/in/vito-hartanto-3813901b6/
+---
+[![](https://visitcount.itsvg.in/api?id=vitohartanto&icon=7&color=0)](https://visitcount.itsvg.in)
