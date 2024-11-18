@@ -3,7 +3,7 @@
 ### I'm a Software Developer - Web and Fresh Graduate in Electrical Engineering 🚀
 
 - 🦜 I'm from Pekanbaru, Riau, Indonesia
-- :octocat: I'm 21 years old
+- :octocat: I'm 22 years old
 - :electron: I studied in Universitas Gadjah Mada
 - ⚔️ I enjoy learning new stuffs
 - 🐟 Fun fact: I find pleasure in caring for ornamental fish
