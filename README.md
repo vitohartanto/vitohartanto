@@ -1,6 +1,6 @@
 ### Hi there, I'm Vito Hartanto 👋
 
-### I'm a Software Developer - Web and Fresh Graduate in Electrical Engineering 🚀
+### I'm a Software Engineer - Web and Fresh Graduate in Electrical Engineering 🚀
 
 - 🦜 I'm from Pekanbaru, Riau, Indonesia
 - :octocat: I'm 22 years old
